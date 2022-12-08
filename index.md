@@ -7,7 +7,7 @@ This is my home page! My name is Alexander Lopez and I am a student at [Cal Stat
 My GitHub page is http://github.com/al0x-l.io
 
 ### CPSC 120
-
+ 
 * Lab 6
 
     One of my favorite labs were lab 6, part 2. It was the lab about creating a guessing game. It was my favorite lab because I had my girlfriend play test it for me. I even used a while loop to force her to play forever. Don't worry I fixed it before I turned it in!
