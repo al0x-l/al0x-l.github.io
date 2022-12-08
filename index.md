@@ -4,7 +4,7 @@ This is my home page! My name is Alexander Lopez and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/al0x-l.io/
+My GitHub page is https://tuffy.github.io/
 
 ### CPSC 120
  
